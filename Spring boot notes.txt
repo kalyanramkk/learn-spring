@@ -1,0 +1,23 @@
+Spring Boot is framework for micro services
+
+provides non functional features
+embedded servers
+metrics
+health checks
+externalized configuration
+
+Features
+Quickly create spring applications
+Embedded Servers tomcat, jetty or Undetow
+Quick Started projects
+
+Web
+JPA
+
+Spring Auto configures comfigures all the required beans by looking a the classes that are there on the classpath
+
+Spring MVC provides simple way of developing a web application
+Spring provides dependency injection so that applications are testable
+Spring boot auto co configures lot of items like JPA, test, MVC 
+
+@Repository : class that talks to the DB

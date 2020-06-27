@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse  xmlns="http://kalyan.com/courses"
+xsi:schemaLocation="http://kalyan.com/courses course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+>
+
+	<CourseDetails>
+		<id>123</id>
+		<name>Marvel Comics Captain America</name>
+		<description>Captain America First Avenger</description>
+	</CourseDetails>
+</GetCourseDetailsResponse>

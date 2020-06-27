@@ -1,0 +1,16 @@
+package org.kalyan.learnspring.autowire.qualifier;
+
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.context.annotation.Primary;
+import org.springframework.stereotype.Component;
+
+@Component
+@Qualifier("kalyan")
+
+public class BubbleSortAlgorithm  implements SortAlgorithm{
+	
+	public int[] sort(int[] numbers) {
+		return numbers;
+	}
+
+}

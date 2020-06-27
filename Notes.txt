@@ -1,0 +1,13 @@
+Contructor Injection
+Setter Injection :
+
+@Primary
+
+Constructor vs Setter INjection: Both the methods are same, no one is superior that other. Dpends on the situation
+
+OXM: Object to XML
+ORM: HIbernatre, IBatis
+
+
+INjection via Name of instance variable
+@Primary has precedence over via name/type
